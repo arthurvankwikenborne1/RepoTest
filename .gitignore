@@ -1,0 +1,21 @@
+# Bestanden met gecompileerde code of de mappen met gecompileerde code
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C-extensies
+*.so
+
+# De database zelf
+dbproject.sqlite3
+project.db
+
+# Configuratiebestanden
+settings.py
+.env
+
+# De verborgen map van je virtuele omgeving
+.env/
+.venv/
+env/
+venv/
